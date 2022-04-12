@@ -1,7 +1,3 @@
-<p align="center"><img src="https://c.tenor.com/aR8FrhHb7V8AAAAS/roflanebalo-roflan.gif" width="150" Corner-radius="50px"/></p>
-<p align="center">
-<a href="https://vk.com/lordchik"><img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue" alt="Vk Badge"></a>
-</p>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
@@ -13,6 +9,8 @@ I am a Beginning С# Developer <img src="https://c.tenor.com/KmE5I6tPv_MAAAAS/pa
 
 - 🏫 I study at the College of Information Technology and Communications.
 - 🧠 Basic knowledge of the С#.
+- 💬 For communication with me - <a href="https://vk.com/lordchik"><img src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue" alt="Vk Badge"></a>&nbsp;
+</p>
 
 ---
 
