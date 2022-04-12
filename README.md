@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://tenor.com/view/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-arthas-gif-22904003" width="100"/>
-</div>
+<div class="tenor-gif-embed" data-postid="22904003" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-arthas-gif-22904003">папич Arthas GIF</a>from <a href="https://tenor.com/search/%D0%BF%D0%B0%D0%BF%D0%B8%D1%87-gifs">папич GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <!--
