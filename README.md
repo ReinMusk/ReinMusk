@@ -11,8 +11,7 @@
 
 I am a Beginning С# Developer <img src="https://c.tenor.com/KmE5I6tPv_MAAAAS/papich-arthas.gif" width="50"> from Russia.
 
-- 🔭 I study at the College of Information Technology and Communications.
-- 🌱 Exploring Technical Content Writing.
+- 🏫 I study at the College of Information Technology and Communications.
 - 🧠 Basic knowledge of the С#.
 
 ---
@@ -21,6 +20,7 @@ I am a Beginning С# Developer <img src="https://c.tenor.com/KmE5I6tPv_MAAAAS/pa
 
 <p>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="cSharp" alt="cSharp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -28,8 +28,6 @@ I am a Beginning С# Developer <img src="https://c.tenor.com/KmE5I6tPv_MAAAAS/pa
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-<img src="
-https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Sharp" alt="Sharp" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNetCore" alt="DotNetCore" width="40" height="40"/>&nbsp;
