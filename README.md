@@ -34,7 +34,7 @@ I am a Beginning С# Developer <img src="https://c.tenor.com/KmE5I6tPv_MAAAAS/pa
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ReinMusk&theme=dark&date_format=M%20j%5B%2C%20Y%5D&dates=0EDD00&stroke=DD0000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ReinMusk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&border=DD2727&stroke=DD2727)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReinMusk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
