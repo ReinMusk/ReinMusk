@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><img src="https://c.tenor.com/nABJfmuLCDAAAAAS/arthas-papich.gif" width="600" height="300"  /></p>
 
