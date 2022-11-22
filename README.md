@@ -1,11 +1,10 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><img src="https://c.tenor.com/nABJfmuLCDAAAAAS/arthas-papich.gif" width="600" height="300"  /></p>
 
 ### 👨‍💻: &nbsp;About Me :
 
-I am a Beginning С# Developer <img src="https://c.tenor.com/KmE5I6tPv_MAAAAS/papich-arthas.gif" width="50"> from Russia.
+I am a Beginning С# Developer from Russia.
 
 - 🏫 I study at the College of Information Technology and Communications.
 - 🧠 Basic knowledge of the С#.
