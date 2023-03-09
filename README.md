@@ -13,7 +13,7 @@ I am a Beginning С# Developer from Russia.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools:
 
 <p>
 
